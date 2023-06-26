@@ -1,6 +1,6 @@
 <suite name="Suite">
   <test name="Test">
-  <parameter name="appURL" value="http://www.fb.com"/>
+  <parameter name="appURL" value="https://demo.actitime.com/login.do"/>
   <parameter name="browser" value="chrome"/>
   <parameter name="ITO" value="9"/> 
   <parameter name="ETO" value="7"/> 
